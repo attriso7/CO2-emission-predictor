@@ -2,7 +2,6 @@
 
 ## Overview
 
-<img src="pic/image.png" alt="Image Description" align="left">
 
 This project focuses on using Linear Regression to predict the CO2 emissions of cars.
 
