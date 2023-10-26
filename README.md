@@ -27,6 +27,9 @@ The model has been tested and evaluated on two different datasets: a testing dat
 
 Feel free to explore this repository to learn more about the project and the code behind it.
 
-## Usage
-
-You can clone this repository to your local machine and run the Jupyter Notebook to see the code in action.
+1. **Clone the Repository:**
+   
+   Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command to clone the repository to your local machine:
+   
+   ```shell
+   git clone https://github.com/attriso7/CO2-emission-predictor.git
