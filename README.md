@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="https://drive.google.com/file/d/1Ga-pS8GIw5k96Z8Hlgirm2PZ3rksX6W0/view?usp=sharing" alt="CO2 emission" align="left" style="zoom:125%;">
+<img src="https://github.com/attriso7/CO2-emission-predictor/blob/main/pic/image.png" alt="CO2 emission" align="left" style="zoom:125%;">
 
 
 This project focuses on using Linear Regression to predict the CO2 emissions of cars.
