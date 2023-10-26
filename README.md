@@ -25,6 +25,8 @@ It then outputs the predicted CO2 emissions.
 
 The model has been tested and evaluated on two different datasets: a testing dataset and a cross-validation dataset. During the cross-validation, the model achieved an impressive R-squared value of 0.96, demonstrating its strong predictive performance.
 
+## Usage
+
 Feel free to explore this repository to learn more about the project and the code behind it.
 
 1. **Clone the Repository:**
