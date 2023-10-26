@@ -3,7 +3,9 @@
 ## Overview
 
 
-<img src="https://drive.google.com/file/d/1Gb7H3YonHx0xgOZV30YetqIPk38bIj3I/view?usp=drivesdk" alt="CO2 emitted by cars" align="left" style="zoom:125%;">
+<<iframe src="https://drive.google.com/file/d/1Gb7H3YonHx0xgOZV30YetqIPk38bIj3I/preview" width="640" height="480" allow="autoplay"></iframe> alt="CO2 emitted by cars" align="left" style="zoom:125%;">
+
+
 
 This project focuses on using Linear Regression to predict the CO2 emissions of cars.
 
