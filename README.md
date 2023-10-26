@@ -2,6 +2,9 @@
 
 ## Overview
 
+
+<img src="https://drive.google.com/file/d/1Gb7H3YonHx0xgOZV30YetqIPk38bIj3I/view?usp=drivesdk" alt="CO2 emitted by cars" align="left" style="zoom:125%;">
+
 This project focuses on using Linear Regression to predict the CO2 emissions of cars.
 
 In this project, I have demonstrated my skills in Machine Learning, specifically using Linear Regression, to predict CO2 emissions of cars. The model takes the following scaled input features:
