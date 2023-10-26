@@ -30,5 +30,5 @@ Feel free to explore this repository to learn more about the project and the cod
 1. **Clone the Repository:**
    
    Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command to clone the repository to your local machine:
-
+```shell
    git clone https://github.com/attriso7/CO2-emission-predictor.git
